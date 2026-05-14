@@ -12,7 +12,7 @@ This project addresses the video super-resolution (VSR) task: reconstructing hig
 ## 2. Directory Structure
 
 ```text
-vsr_project_2026/
+project2026/
   part1/
     sr_baseline.py
     utils.py
@@ -25,6 +25,7 @@ vsr_project_2026/
   tests/
     test_part3_temporal_hybrid.py
     run_part3_checks.py
+  tools/
   checkpoints/
   BasicVSR_PlusPlus/
   Real-ESRGAN/
